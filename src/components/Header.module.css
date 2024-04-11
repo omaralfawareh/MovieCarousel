@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  align-items: center;
+  color: white;
+}
+.menu {
+  width: 10%;
+}
+.margin {
+  margin: 1rem;
+}
