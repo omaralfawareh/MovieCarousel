@@ -1,5 +1,5 @@
 # Show Carousel React.js Web APP 
-Deployed Link: [movie-carousel-iota.vercel.app](movie-carousel-iota.vercel.app)
+Deployed Link: [movie-carousel-iota.vercel.app](https://movie-carousel-iota.vercel.app/)
 
 A TV-Show/Movie web application with a carousel on main page and indivisual show pages for each show.
 
