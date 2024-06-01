@@ -14,7 +14,7 @@ const ShowPage = () => {
     async function fetchShows() {
       try {
         const response = await axios.get(
-          "https://run.mocky.io/v3/7806be0f-8565-4d8b-bc1e-b105036fb1d5"
+          "https://run.mocky.io/v3/227a53a3-8004-4c54-8155-0f14e6714409"
         );
         setIsFetched(true);
         const resData = response.data;
