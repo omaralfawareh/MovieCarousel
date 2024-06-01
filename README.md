@@ -5,7 +5,7 @@ A TV-Show/Movie web application with a carousel on main page and indivisual show
 
 Fetches Show data as JSON from a [Mock API](https://run.mocky.io/v3/7806be0f-8565-4d8b-bc1e-b105036fb1d5)
 
-## Steps to Run
+## Steps to Run Locally
 
 ### 1- Download [Node.js](https://nodejs.org/en/download/current)
 ### 2- Run `Npm install`
